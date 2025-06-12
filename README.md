@@ -35,7 +35,7 @@ An AI-powered chatbot designed to assist in the early detection of depression by
 
 ## 👨‍👩‍👦 Team
 
-- **Sarathy A** – Developer (Python, Flask, ML)  
+- **Sarathy A** – Developer (Python, Flask)  
 - **Dinesh Kumar K** – Contributor  
 - **Essakiraja R** – Contributor  
 - **Mentor**: Adline Freeda R (Department of Information Technology, KCG College of Technology)
